@@ -120,13 +120,10 @@ Full-stack e-commerce platform featuring product management, authentication, ord
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/atharvrahate296" alt="GitHub contribution graph" />
+</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvrahate296&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvrahate296&theme=github-dark&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/atharvrahate296/atharvrahate296/output/github-contribution-grid-snake-dark.svg">
 </p>
